@@ -18,17 +18,10 @@ import chemistrytool.*;
 ```
 # Checklist
 
-- [x] Expressing Concentration
+- [x] Calculating Concentration
 - [x] Gas Laws
 - [x] Periodic Table
 - [x] IUPAC Naming
-
-
-## Contributors
-
-Thanks to the following people who have contributed to this project:
-
-* [@Besufikad](https://github.com/Besufikad17) 📖
 
 ## Contact
 
